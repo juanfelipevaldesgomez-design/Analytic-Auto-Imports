@@ -1,9 +1,14 @@
 # Analytic-Auto-Imports
 engine-size predice el precio mejor que horsepower (r=0.87 vs 0.81).
+
 Un Porsche mal valorado ($10,295 con 288 hp) distorsionaba la correlación; sin él, sube a 0.81.
+
 Jaguar, Mercedes-Benz y Porsche lideran en precio promedio por marca.
+
 Hardtop y convertible son el doble de caras que hatchback.
+
 city-mpg y highway-mpg están casi redundantes entre sí (0.97).
+
 
 
 7. Conclusiones
