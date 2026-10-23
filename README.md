@@ -11,7 +11,7 @@ city-mpg y highway-mpg están casi redundantes entre sí (0.97).
 
 
 
-7. Conclusiones
+Conclusiones
 
 
 Lo que más me sirvió fue usar una matriz de correlación completa en vez de ir variable por variable — así encontré cosas que no estaba buscando, como la redundancia entre mpg ciudad y carretera. Es lo primero que contaría en una entrevista.
